@@ -57,7 +57,7 @@ LMS-Nextjs-And-Nestjs-Project
 ### 1) Clone repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aryanved9/LMS-Nextjs-And-Nestjs-Project.git
 cd LMS-Nextjs-And-Nestjs-Project
 ```
 
